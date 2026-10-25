@@ -1,0 +1,11 @@
+# 모델, 데이터, 검출 결과는 올리지 않음
+*.pt
+*.mp4
+*.avi
+*.zip
+result/
+result_raw/
+result_label/
+train/
+val/
+__pycache__/
